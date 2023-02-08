@@ -13,6 +13,6 @@ else if(day == 3)Console.Write("Среда - Рабочий день");
 else if(day == 4)Console.Write("Черверг - Рабочий день");
 else if(day == 5)Console.Write("Пятница - Рабочий день");
 else if(day == 6)Console.Write("Суббота - Выходной день");
-else Console.Write("Воскресение - Выходной день");
+else if(day == 7)Console.Write("Воскресение - Выходной день");
 
 Console.WriteLine();
