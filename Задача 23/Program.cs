@@ -11,6 +11,7 @@ while (count <= a)
 {
  Console.Write(count * count * count);
  if(count !=a)
+ 
  {
     Console.Write(",");
  }
